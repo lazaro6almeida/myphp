@@ -8,6 +8,7 @@
 
 <?php
 echo "My first PHP script and TS Script!";
+echo date
 ?>
 
 </body>
